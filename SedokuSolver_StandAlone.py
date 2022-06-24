@@ -624,5 +624,5 @@ try:
 
 except:
     printSukdoku(grid)
-    print("This sedoku is beyond the ability of this solver, requiring multiple nested guesses, or the sedoku is impossible to solve.")
+    print("This sudoku is beyond the ability of this solver, requiring multiple nested guesses, or the sudoku is impossible to solve.")
 
